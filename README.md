@@ -10,6 +10,3 @@ A simple, original Python script to generate secure passwords and rate their str
 - Generates multiple passwords at once
 - Rates strength as WEAK ⚠️, MEDIUM ⚡, STRONG ✅
 
-## Usage
-```bash
-python password_generator.py
